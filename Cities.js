@@ -1,9 +1,6 @@
 import React from 'react'
 import './Cities.css'
 import NewYork from '../../Assects/Images/cities/new york.jpg'
-import Paris from '../../Assects/Images/cities/paris.jpg'
-import Miami from '../../Assects/Images/cities/miami.jpg'
-import London from '../../Assects/Images/cities/london.jpg'
 import Losang from '../../Assects/Images/cities/losangles.jpg'
 
 
